@@ -1,6 +1,6 @@
 # Desburocratiza
 Esse projeto envolve a utilização da IA para geração de documentos jurídicos, sendo eles: 
-- Petição,
+- Petição
 - Contestação
 - Recurso
 - Análises Jurídicas
