@@ -1,0 +1,222 @@
+*{
+    background-color: #9D9D9D;
+    
+    color:  #FFFFFF;
+   font-family: Inter, Segoe WPC, Segoe UI, sans-serif;
+   font-weight: 600px;
+   margin: 0 auto;
+   
+}
+
+
+#login-container{
+text-align: right;
+margin-right: 300px;
+padding-right: 40px;
+padding-top: 10px;
+
+
+}
+
+.inputlogin{
+    background-color: #FFFFFF;
+    border: 0px;
+    color: #303030;
+}
+
+#botaologin{
+    background-color: #C07212;
+    color: #FFFFFF;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    margin-left: 50px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 0px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+
+
+}
+
+#titulo{
+        margin-top: 140px;
+        margin-left: 72px;
+        margin-bottom: 1px;
+        font-size: 350%;
+}
+
+#subtitulo{
+    font-size: 20px;
+}
+
+.cabecalho{
+    
+    margin-left: 72px;
+    margin-bottom: 100px;
+    margin-top: 1px;
+
+}
+
+
+#alinhamento{
+    background-color: #1F83DF;
+    display: grid;
+    columns: auto;
+    text-align: left;
+    padding-bottom: -60px;
+    padding-top: -60px;
+}
+
+.titulo{
+    background-color: #1F83DF;
+   color: #FFFFFF;
+   grid-row: 1;
+   margin-left: 30%;
+   margin-top: 40px;
+   
+
+}
+
+
+.paragrafo{
+    background-color: #1F83DF;
+    color: #FFFFFF;
+    margin-left: 30%;
+    margin-top: 0.1px;
+    margin-bottom: 40px;
+    
+}
+
+#corpo{
+    background-color: white;
+    margin-top: -20px;
+    text-align: left;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    align-self: center;
+
+}
+
+#corpo1{
+    background-color: white;
+    color: black;
+    margin: 10px;
+    margin-top: 30%;
+    align-self: center;
+    padding-left: 40%;
+    font-size: 40px;
+    
+
+}
+
+#corpo2{
+    background-color: white;
+    color: black;
+    margin-bottom: 6px;
+    margin: 10px;
+    margin-top: 1%;
+    padding-left: 40%
+    
+    
+    
+}
+
+#corpo3{
+    background-color: white;
+    color: black;
+    grid-row: 2;
+    margin-bottom: 160px;
+    margin-top: -160px;
+    margin-left: 50px;
+    width: 600px;
+    
+}
+
+#formulario{
+    background-color: #FFFFFF;
+    text-align: center;
+    align-items: center;
+    font-weight: 700;
+    margin-top: 20px;
+
+}
+
+.input{
+    background-color: #FFFFFF;
+    color: #303030;
+    border-radius: 10px;
+    width: 500px;
+    height: 55px;
+    margin: 30px;
+    margin-left: 50px;
+    border: 0px;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+.input2{
+    background-color: #FFFFFF;
+    color: #303030;
+    border-radius: 10px;
+    width: 500px;
+    height: 90px;
+    margin: 30px;
+    margin-left: 50px;
+    border: 0px;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: top;
+
+}
+
+input::placeholder{
+    color: #0000004D;
+   
+}
+
+#tituloformulario{
+    padding-bottom: 50px;
+
+}
+
+.questionario{
+    margin-bottom: -30px;
+    margin-left: -300px;
+    
+}
+
+.questionario2{
+    margin-bottom: -30px;
+    margin-left: -420px;
+}
+
+button{
+        background-color: #C07212;
+        color: #FFFFFF;
+        font-size: 30px;
+        width: 286px;
+        height: 74px;
+        margin-left: 50px;
+        cursor: pointer;
+        border-radius: 10px;
+        border: 0px;
+        margin-bottom: 25px;
+        
+        
+}
+
+button:hover{
+    background-color: #C07212 ;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #303030;
+    transition-duration: 0.5s;
+    
+
+}
+
