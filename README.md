@@ -14,6 +14,8 @@ Esse projeto envolve a utilização de IA para geração de documentos jurídico
 
 
 - Fase Inicial.
-Estudo da API por EndPoint para configuração do chatGPT na plataforma.
+
+Criação da Página e ambiente para Login
+Estudo da API por EndPoint para configuração do chatGPT na Plataforma.
 
 
